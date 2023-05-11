@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Mobbipaidd,Chrome 112.0.0.0,,,2023-05-11 16:15:29,2023-05-11 16:16:02,33.051s,PASSED
+,,,,,,,
+Test Cases/Mobbipaid_register/Mobbipaid_register,Chrome 112.0.0.0,,,2023-05-11 16:15:31,2023-05-11 16:16:02,31.565s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2023-05-11 16:15:32,2023-05-11 16:15:41,8.616s,PASSED
+"navigateToUrl(""https://stage.mobipaid.com/en/register"")",Chrome 112.0.0.0,,,2023-05-11 16:15:41,2023-05-11 16:15:48,6.844s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_signatory_first_name""), ""Steve"")",Chrome 112.0.0.0,,,2023-05-11 16:15:48,2023-05-11 16:15:50,2.170s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_signatory_last_name""), ""Ardiyanto"")",Chrome 112.0.0.0,,,2023-05-11 16:15:50,2023-05-11 16:15:51,1.382s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_email""), ""makun1382@gmail.com"")",Chrome 112.0.0.0,,,2023-05-11 16:15:51,2023-05-11 16:15:53,1.327s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_password""), ""IOURxeAy+GoXCjUPAy3eaQ=="")",Chrome 112.0.0.0,,,2023-05-11 16:15:53,2023-05-11 16:15:54,1.277s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_name""), ""Eduwork"")",Chrome 112.0.0.0,,,2023-05-11 16:15:54,2023-05-11 16:15:55,1.391s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_land Islands_form-control btn-log bor_48151b""), ""8990404080"")",Chrome 112.0.0.0,,,2023-05-11 16:15:55,2023-05-11 16:15:57,1.250s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/select_Your country                        _da403c""), ""9"", true)",Chrome 112.0.0.0,,,2023-05-11 16:15:57,2023-05-11 16:15:59,1.947s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_land Islands_state""), ""Dki Jakarta"")",Chrome 112.0.0.0,,,2023-05-11 16:15:59,2023-05-11 16:16:00,1.228s,PASSED
+"click(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_By clicking this box, I accept the,an_f76ab8""))",Chrome 112.0.0.0,,,2023-05-11 16:16:00,2023-05-11 16:16:00,0.669s,PASSED
+"setText(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/input_Login_email""), ""makun1382@gmail.com"")",Chrome 112.0.0.0,,,2023-05-11 16:16:00,2023-05-11 16:16:02,1.186s,PASSED
+"click(findTestObject(""Object Repository/object_mobbipaid_register/Page_Register/button_Next Step   please wait""))",Chrome 112.0.0.0,,,2023-05-11 16:16:02,2023-05-11 16:16:02,0.615s,PASSED
